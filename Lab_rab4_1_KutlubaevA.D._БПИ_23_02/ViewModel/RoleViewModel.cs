@@ -1,6 +1,5 @@
 ﻿using System.Collections.ObjectModel;
 using Lab_rab4_1_KutlubaevA.D._БПИ_23_02.Model;
-
 namespace Lab_rab4_1_KutlubaevA.D._БПИ_23_02.ViewModel
 {
     public class RoleViewModel
